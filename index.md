@@ -1,4 +1,4 @@
-### Tabulating below a few projects I've worked on.
+#### Tabulating below a few projects I've worked on. Visit [Github](https://www.github.com/thadikari) to see all projects.
 
 |||
 |-|-|

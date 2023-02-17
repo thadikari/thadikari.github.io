@@ -2,16 +2,24 @@
 layout: default
 ---
 
+
+---
+
+
 ## Bio
 
 
-I received the B.Sc. degree in 2014 from University of Moratuwa, Sri Lanka, and the M.A.Sc. degree in 2018 from University of Toronto, Canada. From 2014 to 2016, I worked with <a href="https://www.linkedin.com/company/lsegtechnology/about/"><strong>LSEG Technology</strong></a> (formerly known as MillenniumIT), Sri Lanka, primarily on Stock Market Surveillance.
+I received the B.Sc. in 2014 from University of Moratuwa, Sri Lanka, and the M.A.Sc. in 2018 from University of Toronto, Canada. From 2014 to 2016 I worked with <a href="https://www.linkedin.com/company/lsegtechnology/about/"><strong>LSEG Technology</strong></a> (formerly known as MillenniumIT), Sri Lanka, primarily on Stock Market Surveillance.
 
 
 My research interests include distributed optimization, machine learning and source coding. <a href="https://www.linkedin.com/in/thadikari"><strong>This</strong></a> is my Linkedin page. Here's a selected set of projects I've worked on (visit <a href="https://www.github.com/thadikari"><strong>Github</strong></a> to see all).
 
 
 <br>
+
+---
+
+
 ## Projects + Publications
 
 

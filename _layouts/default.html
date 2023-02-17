@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Tharindu B. Adikari</title>
+    <title>{{ site.title }}</title>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -17,25 +17,27 @@
     <div class="wrapper">
       <header>
         <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 align="left"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         <!--
           Tharindu Adikari, University of Moratuwa
           Tharindu B. Adikari, University of Toronto
           thadikari
           -->
-        <p align="center">
+        <p align="left">
         I am a PhD candidate in Dept. of Electrical and Computer Engineering, University of Toronto under the supervision of <a href="https://www.ece.utoronto.ca/people/draper-s"><strong>Prof. Stark C. Draper</strong></a>.
         <!-- Distributed computing | Machine learning | Source coding | PhD candidate - University of Toronto
         Graduate student in ECE, UofT, working in distributed computing, source coding and machine learning. -->
         </p>
         <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
 
+        <div align="left">
         {% if site.logo %}
-          <img src="/assets/img/photo.png" alt="Photo" />
+          <img src="/assets/img/photo.png" alt="Photo" width="200"/>
           <!-- <img src="{{site.logo | relative_url}}" alt="Logo" /> -->
         {% endif %}
-        <br>        <br>
+        </div>
+        <br>
 
 
         <!-- 

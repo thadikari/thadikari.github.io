@@ -4,8 +4,6 @@ layout: default
 
 ## Bio
 
-I am a PhD candidate in Dept. of Electrical and Computer Engineering, University of Toronto under the supervision of <a href="https://www.ece.utoronto.ca/people/draper-s"><strong>Prof. Stark C. Draper</strong></a>.
-
 
 I received the B.Sc. degree in 2014 from University of Moratuwa, Sri Lanka, and the M.A.Sc. degree in 2018 from University of Toronto, Canada. From 2014 to 2016, I worked with <a href="https://www.linkedin.com/company/lsegtechnology/about/"><strong>LSEG Technology</strong></a> (formerly known as MillenniumIT), Sri Lanka, primarily on Stock Market Surveillance.
 

@@ -1,3 +1,8 @@
+
++ Execute `bundle exec jekyll serve` to run locally.
++ If running on darth, forward port when connecting `ssh -i id_rsa -L 4000:localhost:4000 tharindu@128.100.23.27`.
+
+
 # The Minimal theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)

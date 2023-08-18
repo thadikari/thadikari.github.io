@@ -13,6 +13,7 @@ I received the B.Sc. in 2014 from University of Moratuwa, Sri Lanka, and the M.A
 
 My research interests include distributed optimization, machine learning and source coding. Visit my <a href="https://www.linkedin.com/in/thadikari"><strong>Linkedin</strong></a> and <a href="https://www.github.com/thadikari"><strong>Github</strong></a>.
 
+I'm an enthusiast of rephotography, capturing then-and-now photos. Explore my collection <a href="https://www.facebook.com/media/set/?set=a.10226766233696427&type=3&ref=embed_post"><strong>here</strong></a>.
 
 <br>
 

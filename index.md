@@ -76,7 +76,7 @@ This project builds on the "Differentiable Boundary Trees" algorithm by [Zoran e
 ___Python/NumPy Implementation of a Few Iterative Decoders for LDPC Codes___&nbsp;&nbsp;
 [[_Code_](https://github.com/thadikari/ldpc_decoders)]
 
-Includes implementations of min-sum and sum-product algorithms using sparse matrices (`scipy.sparse`), maximum-likedlood (ML) and linear-programming (LP) decoders, and ADMM decoder. | <img src="https://raw.githubusercontent.com/thadikari/decoders/master/data/plots/BSC_SPA_compare.png?raw=true" width="1200" />
+Includes implementations of min-sum and sum-product algorithms using sparse matrices (`scipy.sparse`), maximum-likelihood (ML) and linear-programming (LP) decoders, and ADMM decoder. | <img src="https://raw.githubusercontent.com/thadikari/decoders/master/data/plots/BSC_SPA_compare.png?raw=true" width="1200" />
 
 
 

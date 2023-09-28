@@ -23,6 +23,13 @@ My research interests include distributed optimization, machine learning and sou
 
 
 
+___Straggler Exploitation in Distributed Computing Systems with Task Grouping___
+&nbsp;\-&nbsp; Presented at [<span style="color:tomato">Allerton Conf. Sep '23</span>](https://allerton.csl.illinois.edu) [[_Slides_](/docs/straggler_allerton23.pdf)]
+
+A method is proposed for exploiting work done by stragglers, nodes that randomly become slow in large compute clusters. The proposed method offers up to 30% time savings compared to a baseline. | <img src="assets/img/adikari2023straggler_banner.png" width="1500" />
+
+<p style="margin-bottom:1cm;"/>
+
 ___Bounds for the Rate Distortion Region of 'Two-Terminal Common Function Reconstruction (CFR)' Problem___
 &nbsp;\-&nbsp; Presented at [<span style="color:tomato">NASIT June '23</span>](https://nasit.seas.upenn.edu) [[_Poster_](/docs/bounds_nasit23.pdf)]
 

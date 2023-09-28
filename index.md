@@ -13,6 +13,7 @@ I received the B.Sc. in 2014 from University of Moratuwa, Sri Lanka, and the M.A
 
 My research interests include distributed optimization, machine learning and source coding. Visit my <a href="https://www.linkedin.com/in/thadikari"><strong>Linkedin</strong></a> and <a href="https://www.github.com/thadikari"><strong>Github</strong></a>.
 
+I'm an enthusiast of rephotography, capturing then-and-now photos. Explore my collection <a href="https://www.facebook.com/media/set/?set=a.10226766233696427&type=3&ref=embed_post"><strong>here</strong></a>.
 
 <br>
 
@@ -82,7 +83,7 @@ This project builds on the "Differentiable Boundary Trees" algorithm by [Zoran e
 ___Python/NumPy Implementation of a Few Iterative Decoders for LDPC Codes___&nbsp;&nbsp;
 [[_Code_](https://github.com/thadikari/ldpc_decoders)]
 
-Includes implementations of min-sum and sum-product algorithms using sparse matrices (`scipy.sparse`), maximum-likedlood (ML) and linear-programming (LP) decoders, and ADMM decoder. | <img src="https://raw.githubusercontent.com/thadikari/decoders/master/data/plots/BSC_SPA_compare.png?raw=true" width="1200" />
+Includes implementations of min-sum and sum-product algorithms using sparse matrices (`scipy.sparse`), maximum-likelihood (ML) and linear-programming (LP) decoders, and ADMM decoder. | <img src="https://raw.githubusercontent.com/thadikari/decoders/master/data/plots/BSC_SPA_compare.png?raw=true" width="1200" />
 
 
 

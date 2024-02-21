@@ -8,12 +8,13 @@ layout: default
 
 ## About
 
+I obtained both my PhD and M.A.Sc. degrees from the Department of Electrical and Computer Engineering at the University of Toronto, Canada, in 2024 and 2018, respectively. During this period, I conducted research on distributed optimization, machine learning, and source coding under the supervision of <a href="https://www.ece.utoronto.ca/people/draper-s"><strong>Prof. Stark C. Draper</strong></a>.
 
-I received the B.Sc. in 2014 from University of Moratuwa, Sri Lanka, and the M.A.Sc. in 2018 from University of Toronto, Canada. From 2014 to 2016 I worked with <a href="https://www.linkedin.com/company/lsegtechnology/about/"><strong>LSEG Technology</strong></a> (formerly known as MillenniumIT), Sri Lanka, primarily developing tech for Stock Market Surveillance.
+I received my B.Sc. degree in 2014 from the University of Moratuwa, Sri Lanka. From 2014 to 2016 I worked with <a href="https://www.linkedin.com/company/lsegtechnology/about/"><strong>LSEG Technology</strong></a> (formerly known as MillenniumIT), Sri Lanka, focusing on the development of technology for Stock Market Surveillance.
 
-My research interests include distributed optimization, machine learning and source coding. Visit my <a href="https://www.linkedin.com/in/thadikari"><strong>Linkedin</strong></a> and <a href="https://www.github.com/thadikari"><strong>Github</strong></a>.
+Feel free to visit my <a href="https://www.linkedin.com/in/thadikari"><strong>Linkedin</strong></a> and <a href="https://www.github.com/thadikari"><strong>Github</strong></a> pages.
 
-I'm an enthusiast of rephotography, capturing then-and-now photos. Explore my collection <a href="https://www.facebook.com/media/set/?set=a.10226766233696427&type=3&ref=embed_post"><strong>here</strong></a>.
+I am an enthusiast of rephotography, capturing then-and-now photos. Some selected items from my collection are posted <a href="https://www.facebook.com/media/set/?set=a.10226766233696427&type=3&ref=embed_post"><strong>here</strong></a>.
 
 <br>
 

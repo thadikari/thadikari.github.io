@@ -8,7 +8,7 @@ layout: default
 
 ## About
 
-I obtained both my PhD and M.A.Sc. degrees from the Department of Electrical and Computer Engineering at the University of Toronto, Canada, in 2024 and 2018, respectively. During this period, I conducted research on distributed optimization, machine learning, and source coding under the supervision of <a href="https://www.ece.utoronto.ca/people/draper-s"><strong>Prof. Stark C. Draper</strong></a>.
+I obtained both my PhD and MASc degrees from the Department of Electrical and Computer Engineering at the University of Toronto, Canada, in 2024 and 2018, respectively. During this period, I conducted research on distributed optimization, machine learning, and multi-user information theory under the supervision of <a href="https://www.ece.utoronto.ca/people/draper-s"><strong>Prof. Stark C. Draper</strong></a>.
 
 I received my B.Sc. degree in 2014 from the University of Moratuwa, Sri Lanka. From 2014 to 2016 I worked with <a href="https://www.linkedin.com/company/lsegtechnology/about/"><strong>LSEG Technology</strong></a> (formerly known as MillenniumIT), Sri Lanka, focusing on the development of technology for Stock Market Surveillance.
 
@@ -21,7 +21,7 @@ I am an enthusiast of rephotography, capturing then-and-now photos. Some selecte
 ---
 
 
-## Projects + Publications
+## Selected Projects + Publications
 
 
 

@@ -14,7 +14,7 @@ I received my B.Sc. degree in 2014 from the University of Moratuwa, Sri Lanka. F
 
 Feel free to visit my <a href="https://www.linkedin.com/in/thadikari"><strong>Linkedin</strong></a> and <a href="https://www.github.com/thadikari"><strong>Github</strong></a> pages.
 
-I am an enthusiast of rephotography, capturing then-and-now photos. Some selected items from my collection are posted <a href="https://www.facebook.com/media/set/?set=a.10226766233696427&type=3&ref=embed_post"><strong>here</strong></a>.
+I am an enthusiast of rephotography, capturing then-and-now photos. Some selected items from my collection are posted <a href="https://www.instagram.com/nostalgicapture"><strong>here</strong></a>.
 
 <br>
 

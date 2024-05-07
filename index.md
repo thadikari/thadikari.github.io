@@ -25,6 +25,14 @@ I am an enthusiast of rephotography, capturing then-and-now photos. Some selecte
 
 
 
+___Common Function Reconstruction with Information Swapping Terminals (CFR)___
+&nbsp;\-&nbsp; Presented at [<span style="color:tomato">ISIT July '24</span>](https://2024.ieee-isit.org/home) [[_Paper_](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Common%20Function%20Reconstruction%20with%20Information%20Swapping%20Terminals)]
+
+
+An achievability and a converse for the the CFR problem is presented, where two terminals swap information and they both reconstruct deterministic functions of sources, which are identical with high probability. | <img src="assets/img/adikari2024common-function.png" width="1500" />
+
+<p style="margin-bottom:1cm;"/>
+
 ___Straggler Exploitation in Distributed Computing Systems with Task Grouping___
 &nbsp;\-&nbsp; Presented at [<span style="color:tomato">Allerton Conf. Sep '23</span>](https://allerton.csl.illinois.edu) [[_Slides_](/docs/straggler_allerton23.pdf)]
 

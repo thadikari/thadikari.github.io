@@ -25,8 +25,16 @@ I am an enthusiast of rephotography, capturing then-and-now photos. Some selecte
 
 
 
+___Exploiting Stragglers in Distributed Computing Systems with Task Grouping___
+&nbsp;\-&nbsp; Published in [<span style="color:tomato">TSC '24</span>](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) [[_Paper_](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Exploiting%20Stragglers%20in%20Distributed%20Computing%20Systems%20with%20Task%20Grouping)]
+
+
+A method is proposed for exploiting stragglers in the context of general workloads, by generalizing standard replication. Evaluations on real-world datasets and clusters show up to 30% time savings. | <img src="assets/img/adikari2024exploiting_banner.PNG" width="1500" />
+
+<p style="margin-bottom:1cm;"/>
+
 ___Common Function Reconstruction with Information Swapping Terminals (CFR)___
-&nbsp;\-&nbsp; Presented at [<span style="color:tomato">ISIT July '24</span>](https://2024.ieee-isit.org/home) [[_Paper_](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Common%20Function%20Reconstruction%20with%20Information%20Swapping%20Terminals)]
+&nbsp;\-&nbsp; Presented at [<span style="color:tomato">ISIT July '24</span>](https://2024.ieee-isit.org/home) [[_Paper_](https://ieeexplore.ieee.org/document/10619246)]
 
 
 An achievability and a converse for the the CFR problem is presented, where two terminals swap information and they both reconstruct deterministic functions of sources, which are identical with high probability. | <img src="assets/img/adikari2024common-function.png" width="1500" />

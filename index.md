@@ -26,7 +26,7 @@ I am an enthusiast of rephotography, capturing then-and-now photos. Some selecte
 
 
 ___Exploiting Stragglers in Distributed Computing Systems with Task Grouping___
-&nbsp;\-&nbsp; Published in [<span style="color:tomato">TSC '24</span>](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) [[_Paper_](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Exploiting%20Stragglers%20in%20Distributed%20Computing%20Systems%20with%20Task%20Grouping)]
+&nbsp;\-&nbsp; Published in [<span style="color:tomato">TSC '24</span>](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) [[_Paper_](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Exploiting%20Stragglers%20in%20Distributed%20Computing%20Systems%20with%20Task%20Grouping), [_Arxiv_](https://arxiv.org/abs/2411.03645)]
 
 
 A method is proposed for exploiting stragglers in the context of general workloads, by generalizing standard replication. Evaluations on real-world datasets and clusters show up to 30% time savings. | <img src="assets/img/adikari2024exploiting_banner.PNG" width="1500" />

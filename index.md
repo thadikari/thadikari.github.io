@@ -42,7 +42,7 @@ An achievability and a converse for the the CFR problem is presented, where two 
 <p style="margin-bottom:1cm;"/>
 
 ___Straggler Exploitation in Distributed Computing Systems with Task Grouping___
-&nbsp;\-&nbsp; Presented at [<span style="color:tomato">Allerton Conf. Sep '23</span>](https://allerton.csl.illinois.edu) [[_Slides_](/docs/straggler_allerton23.pdf)]
+&nbsp;\-&nbsp; Presented at [<span style="color:tomato">Allerton Conf. Sep '23</span>](https://allerton.csl.illinois.edu) [[_Paper_](https://ieeexplore.ieee.org/document/10313511), [_Slides_](/docs/straggler_allerton23.pdf)]
 
 A method is proposed for exploiting work done by stragglers, nodes that randomly become slow in large compute clusters. The proposed method offers up to 30% time savings compared to a baseline. | <img src="assets/img/adikari2023straggler_banner.png" width="1500" />
 
